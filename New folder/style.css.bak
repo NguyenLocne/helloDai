@@ -1,0 +1,25 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+.bg-img {
+  
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  position: absolute;
+  background-image: url("bgdesert.jpg"); center center no repeat;
+  background-size: auto;
+  background-repeat: center;
+}
+.bg-img:before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: auto;
+  background-image: linear-gradient(center, #002f4b, #dc4225);
+  opacity: 0.6;
+}

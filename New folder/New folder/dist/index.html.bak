@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Curve - Three.js</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+<link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<div class="images">
+      <div class="img _one"></div>
+      <div class="img _two"></div>
+      <div class="img _three"></div>
+<button class="bubbly-button" <a href="animated-continuous-sections-with-gsap-observer/dist/index.html">Bấm ở đây nè></a></button>
+<!-- partial -->
+  <script  src="./script.js"></script>
+    </div>    
+<div id="webgl"></div>
+<!-- partial -->
+  <script src='https://unpkg.co/gsap@3/dist/gsap.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/three.js/r99/three.min.js'></script><script  src="./script.js"></script><br>
+</body>
+</html>

@@ -1,0 +1,16 @@
+* {
+  overflow:hidden;
+}
+      .img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        width: 700px;
+        height: 400px;
+      }
+      ._one {
+        background: url("hello-its-me-eq8rez.jpg") center center no-repeat;
+        background-size: max-height;
+		background-size: max-width;
+      }
